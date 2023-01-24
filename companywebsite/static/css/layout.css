@@ -7,7 +7,7 @@ body {
   color: #17421d;
 }
 .container {
-  width: 1080px;
+  width: 780px;
   margin-left: auto;
   margin-right: auto;
   border-width: 1px 1px 1px 1px;
@@ -17,12 +17,12 @@ body {
 
 .banner {
   display: block;
-  width: 100%;
-  height: 250px;
+  width: 97%;
+  height: 220px;
   text-align: center;
   font-size: 60px;
-  background-image: url("/static/img/banner1.jpg");
-  background-size: 100% 100%;
+  background-image: url("/static/img/google-logo.jpg");
+  background-size: 99% 110%;
   margin: 0px 0px 0px 0px;
   padding-top: 150px;
   color: #16d1ae;
@@ -33,7 +33,7 @@ body {
   width: 100%;
   height: 50px;
   font-size: larger;
-  background-color: #5bb045;
+  background-color: #767ffa;
   text-align: center;
   padding-top: 15px;
   margin: 0px 0px 0px 0px;
@@ -54,7 +54,7 @@ body {
 
 .menuitem a {
   text-decoration: none;
-  color: #9c1018;
+  color: #310608;
 }
 
 .content {
@@ -68,21 +68,27 @@ body {
   border-style: solid;
 }
 .homecontent {
-  min-height: 500px;
+  min-height: 550px;
   margin: 10px 10px 10px 10px;
 }
 .homecontent h1 {
   text-align: left;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: xx-large;
 }
 .homecontent img {
   float: right;
-  width: 400px;
-  height: 300px;
+  width: 320px;
+  height: 150px;
   margin-left: 10px;
 }
 
 .contenttext {
   text-align: justify;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-style: italic;
+  font-size: larger;
+  color: #310d52;
 }
 
 .productcontent {
@@ -92,6 +98,8 @@ body {
 
 .productcontent h1 {
   text-align: left;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: xx-large;
 }
 
 .productitems {
@@ -106,8 +114,8 @@ body {
 }
 
 .productitem img {
-  width: 100px;
-  height: 100px;
+  width: 140px;
+  height: 95px;
   display: block;
 }
 .productitem .itemimage {
@@ -115,23 +123,90 @@ body {
   margin-left: auto;
   margin-right: auto;
   width: 100px;
-  margin-bottom: 5px;
+  margin-bottom: 10px;
 }
 
 .productitem .itemname {
   display: block;
+  text-decoration: #310608;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: larger;
+  font-weight: 1000px;
 }
 .productitem .itemprice {
   display: block;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-style: italic;
+  font-size: large;
 }
 
+.peoplecontent {
+  min-height: 500px;
+  margin: 10px 10px 10px 10px;
+}
+
+.peoplecontent h1 {
+  text-align: left;
+}
+
+.peopletitems {
+  display: block;
+}
+
+.peopleitem {
+  display: inline-block;
+  width: 30%;
+  height: 250px;
+  text-align: center;
+}
+
+.peopleitem img {
+  width: 110px;
+  height: 133px;
+  display: block;
+}
+.peopleitem .itemimage {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100px;
+  margin-bottom: 10px;
+}
+
+.peopleitem .itemname {
+  display: block;
+  text-decoration: #310608;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: larger;
+  font-weight: 1000px;
+}
+.peopleitem .itemprice {
+  display: block;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-style: italic;
+}
+.contactcontent {
+  min-height: 550px;
+  margin: 10px 10px 10px 10px;
+}
+.contactcontent h1 {
+  text-align: left;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: xx-large;
+}
+.contactcontent img {
+  float: center;
+  width: 70px;
+  height: 90px;
+  margin-left: 10px;
+}
 .footer {
   display: block;
   width: 100%;
   height: 40px;
-  background-color: #5bb045;
+  background-color: #66bed4;
   text-align: center;
   padding-top: 10px;
   margin: 0px 0px 0px 0px;
-  color: #9c1018;
+  color: #4b1215;
 }
