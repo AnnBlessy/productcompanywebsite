@@ -356,9 +356,11 @@ Publish the website in the given URL.
 ![output1](./images/home1.png)
 ![output2](./images/home2.png)
 
+
 ### Product Page (12 products):
 ![output3](./images/pro1.png)
 ![output4](./images/pro2.png)
+
 
 ### People Page:
 ![output5](./images/ppl.png)
@@ -372,5 +374,5 @@ Publish the website in the given URL.
 ### layout.css Validation:
 ![output8](./images/css_val.png)
 
-## Result:
+## RESULT:
 Thus a website is designed for the software product company and the HTML,CSS code are validated.
