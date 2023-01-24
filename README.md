@@ -351,7 +351,7 @@ Publish the website in the given URL.
 
 ### Product Page (12 products):
 ![output3](./images/pro1.png)
-![output4](./images/pro21.png)
+![output4](./images/pro2.png)
 
 ### People Page:
 ![output5](./images/ppl.png)
